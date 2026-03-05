@@ -1,1 +1,1 @@
-# simulacro_de_cajero_autom-tico
+# simulacro_de_cajero_automatico
